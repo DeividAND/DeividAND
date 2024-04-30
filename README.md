@@ -1,4 +1,4 @@
-## Olá! Eu sou o Deivid Auguto 🖐️
+## Olá! Eu sou Deivid Auguto 🖐️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-augusto-5a6234279/)
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto__deivid/)
