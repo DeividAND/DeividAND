@@ -1,7 +1,8 @@
 ## Olá! Eu sou Deivid Auguto 🖐️
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-augusto-5a6234279/)
-[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto__deivid/)
+* 🌎 I'm from Itapissuma, PE - Brasil
+* 👨🏽‍💻 Data Analyst
+* 🚀 giving up is not an option
 
 ## 💻 Status
 
@@ -14,3 +15,7 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
      <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
+
+## 📢 Social Networks
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivid-augusto-5a6234279/)
+[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto__deivid/)
