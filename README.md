@@ -1,4 +1,4 @@
-## Olá! Eu sou Deivid Auguto 🖐️
+## Olá! Eu sou Deivid Augusto 🖐️
 
 * 🌎 I'm from Itapissuma, PE - Brasil
 * 👨🏽‍💻 Data Analyst
