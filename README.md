@@ -3,6 +3,7 @@
 * 🌎 I'm from Itapissuma, PE - Brasil
 * 👨🏽‍💻 Data Analyst
 * 🚀 giving up is not an option
+* 📧 contact me : deividAND@outlook.com
 
 ## 💻 Status
 
@@ -11,9 +12,12 @@
 ### Tecnologias utilizadas no meu dia!
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=ksMs0PlzI1vG&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"/>
 </div><br/>
 
 ## 📢 Social Networks
