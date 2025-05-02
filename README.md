@@ -18,6 +18,7 @@
      <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
      <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
      <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000"/>
+     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"/>
 </div><br/>
 
 ## 📢 Social Networks
